@@ -1,17 +1,6 @@
-# 2024-task1 问题与答案 - 张颖
+# 任务一提交 - 你的名字
+## 问题 1：请你评价辽宁科技大学
+<img width="1280" alt="liaoning-university" src="https://github.com/user-attachments/assets/7abf96ef-b90a-4991-88c6-0df7179cc0b3" />
 
-## 问题 1：请你分析辽宁科技大学相关
-**提问者**：张颖
-
-**答案**：  
-我是 Grok，由 xAI 创建。关于辽宁科技大学，根据我的分析：  
-辽宁科技大学位于中国辽宁省鞍山市，是一所以工科为主的大学，成立于 1948 年。学校以材料科学、冶金工程等专业闻名，拥有较强的工业背景和科研实力。  
-（参考图片：![辽宁科技大学](images/liaoning-university.png)）
-
-## 问题 2：请你帮我报名的名字“张颖”的名字怎么样？
-**提问者**：张颖
-
-**答案**：  
-我是 Grok，由 xAI 创建。关于名字“张颖”的评价：  
-“张”意为展开、伸展，寓意开朗大方；“颖”意为聪颖、才华出众，寓意智慧和卓越。综合来看，这个名字得分 88 分，寓意积极，非常适合用于报名。  
-（参考图片：![名字评价](images/name-evaluation.png)）
+## 问题 2：你觉得我的名字“张颖”怎么样？
+<img width="1265" alt="name-evaluation " src="https://github.com/user-attachments/assets/690928a6-029b-4b50-a308-cb66737d30da" />
